@@ -1,0 +1,5 @@
+{
+  "name": "EcoSense AI",
+  "description": "A modern, real-time pollution monitoring dashboard featuring simulated sensor data, visualization charts, and AI-powered environmental predictions.",
+  "requestFramePermissions": []
+}
